@@ -1,0 +1,62 @@
+{
+   "localization_name": "SelfMade",
+   "serialize_name": "233",
+   "skins": 
+   [
+      {
+         "geometry": "geometry.humanoid.customSlim",
+         "localization_name": "Shadow",
+         "texture": "543366.png",
+         "type": "free"
+      },
+      {
+         "geometry": "geometry.humanoid.customSlim",
+         "localization_name": "Colorful",
+         "texture": "543888.png",
+         "type": "free"
+      },
+	    {
+         "geometry": "geometry.humanoid.customSlim",
+         "localization_name": "3",
+         "texture": "552288.png",
+         "type": "free"
+      },
+	    {
+         "geometry": "geometry.humanoid.customSlim",
+         "localization_name": "4",
+         "texture": "847031.png",
+         "type": "free"
+      },
+	    {
+         "geometry": "geometry.humanoid.custom",
+         "localization_name": "5",
+         "texture": "847159.png",
+         "type": "free"
+      },
+	    {
+         "geometry": "geometry.humanoid.customSlim",
+         "localization_name": "6",
+         "texture": "847399.png",
+         "type": "free"
+      },
+	    {
+         "geometry": "geometry.humanoid.customSlim",
+         "localization_name": "7",
+         "texture": "ed041077a5a3a2a6.png",
+         "type": "free"
+      },
+	  	{
+         "geometry": "geometry.humanoid.customSlim",
+         "localization_name": "8",
+         "texture": "highs.png",
+		 "cape":"cape2015.png",
+         "type": "free"
+      },
+	  	{
+         "geometry": "geometry.humanoid.customSlim",
+         "localization_name": "9",
+         "texture": "nezuko.png",
+         "type": "free"
+      }
+   ]
+}
